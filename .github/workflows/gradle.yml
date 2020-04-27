@@ -26,4 +26,4 @@ jobs:
           chmod 755 /home/runner/work/sel/sel/resources/geckodriver
           chmod 755 /home/runner/work/sel/sel/resources/chromedriver
     - name: Test
-      run: ./gradlew test -i
+      run: ./gradlew test
