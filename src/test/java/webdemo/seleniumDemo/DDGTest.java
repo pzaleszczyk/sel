@@ -17,6 +17,7 @@ import java.util.concurrent.TimeUnit;
 import static org.junit.Assert.*;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+
 public class DDGTest {
 
     private static WebDriver driver;
